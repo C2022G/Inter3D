@@ -49,7 +49,7 @@ conda create -n proactivenerf python=3.7
 	```
 
 ## Datasets
-链接: https://pan.baidu.com/s/1NCFKKgwS_MW_Ynezw9KxCw?pwd=h8zh 提取码: h8zh 
+链接: https://pan.baidu.com/s/1Jor9Ke1hzgm5SeNzaiJSnQ?pwd=36ed 提取码: 36ed 
 ## Training
 ```python
 python run.py
