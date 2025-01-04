@@ -1,6 +1,6 @@
 # Inter3D
 **Inter3D: Human Interactive 3D Object Reconstruction**
-![Overview of our method](https://github.com/C2022G/Inter3D/blob/main/readme/1.png)
+![Overview of our method](https://github.com/C2022G/Inter3D/blob/main/readme/2.png)
 
 The implementation of our code is referenced in [kwea123-npg_pl](https://github.com/kwea123/ngp_pl)。The hardware and software basis on which our model operates is described next
  - Ubuntu 18.04
@@ -68,6 +68,7 @@ python run.py
 --density_weight 1e-2
 ```
 ## result
-![](https://github.com/C2022G/Inter3D/blob/main/readme/4.png)
 ![](https://github.com/C2022G/Inter3D/blob/main/readme/5.png)
 ![](https://github.com/C2022G/Inter3D/blob/main/readme/6.png)
+![](https://github.com/C2022G/Inter3D/blob/main/readme/7.png)
+![](https://github.com/C2022G/Inter3D/blob/main/readme/8.png)
