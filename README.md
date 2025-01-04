@@ -12,11 +12,11 @@ Let's complete the basic setup before we run the model。
  
 + Clone this repo by
 ```python
-git clone https://github.com/C2022G/dhsnerf.git
+git clone https://github.com/C2022G/Inter3D.git
 ```
 +  Create an anaconda environment
 ```python
-conda create -n proactivenerf python=3.7
+conda create -n Inter3D python=3.7
 ``` 
 + cuda code compilation dependency.
 	- Install pytorch by
